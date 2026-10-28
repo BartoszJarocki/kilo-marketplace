@@ -459,7 +459,7 @@ items:
       used when investigating a business question, explaining a metric anomaly, validating a hypothesis, performing root
       cause analysis, or preparing a one-off investigation dashboard or memo.
     category: data
-    author: Pedro / Kilo Code
+    author: Pedro
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/data-investigation
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/data-investigation/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/data-investigation.tar.gz
@@ -478,7 +478,7 @@ items:
       Serverless", "Redshift Spectrum", "distribution key", "sort key", "DISTKEY", "SORTKEY", "DISTSTYLE", "WLM",
       "Redshift ML", "STL_", "SVL_", "SYS_", "data sharing Redshift".
     category: data
-    author: christopher huffman
+    author: Christopher Huffman
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/database-redshift
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/database-redshift/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/database-redshift.tar.gz
@@ -1089,7 +1089,7 @@ items:
       transformations, optimize Spark SQL queries, implement RDD pipelines, tune shuffle operations, configure executor
       memory, process .parquet files, handle data partitioning, or build structured streaming analytics.
     category: data
-    author: https://github.com/Jeffallan
+    author: Jeffallan
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/spark-engineer
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/spark-engineer/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/spark-engineer.tar.gz
@@ -1524,7 +1524,7 @@ items:
       Review GCP Pub/Sub, Eventarc, Cloud Tasks, Cloud Scheduler, and Workflows designs — dead-letter topics, message
       ordering, idempotency, fan-out blast radius, schema registry, and retry storm risk.
     category: development
-    author: "github: Raishin"
+    author: Raishin
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/gcp-event-driven-architecture-review
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/gcp-event-driven-architecture-review/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/gcp-event-driven-architecture-review.tar.gz
